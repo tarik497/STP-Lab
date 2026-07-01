@@ -23,4 +23,4 @@ Each lab folder includes:
 - Network redundancy and automatic failover
 
 ## Author
-**Tarek Hamraoui**
+**Tarik Hamraoui**
